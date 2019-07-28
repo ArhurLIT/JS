@@ -1,0 +1,175 @@
+[2019-07-28T21:46:46.618] [INFO] protractor - page loaded
+[2019-07-28T21:46:51.103] [INFO] protractor - sign in clicked
+[2019-07-28T21:46:51.720] [INFO] protractor - page loaded
+[2019-07-28T21:46:52.175] [INFO] protractor - sign in clicked
+[2019-07-28T21:46:52.175] [INFO] protractor - sign up clicked
+[2019-07-28T21:46:53.062] [INFO] protractor - page loaded
+[2019-07-28T21:46:53.444] [INFO] protractor - forgot password link clicked
+[2019-07-28T21:46:53.444] [INFO] protractor - email entered
+[2019-07-28T21:46:53.444] [INFO] protractor - send password rest button clicked
+[2019-07-28T21:46:55.127] [INFO] protractor - page loaded
+[2019-07-28T21:46:55.636] [INFO] protractor - forgot password link clicked
+[2019-07-28T21:46:55.637] [INFO] protractor - email entered
+[2019-07-28T21:46:55.637] [INFO] protractor - send password rest button clicked
+[2019-07-28T21:46:57.787] [INFO] protractor - page loaded
+[2019-07-28T21:46:58.238] [INFO] protractor - forgot password link clicked
+[2019-07-28T21:46:58.239] [INFO] protractor - email entered
+[2019-07-28T21:46:58.239] [INFO] protractor - send password rest button clicked
+[2019-07-28T21:47:00.136] [INFO] protractor - page loaded
+[2019-07-28T21:47:00.513] [INFO] protractor - sigun up link cliked
+[2019-07-28T21:47:03.334] [INFO] protractor - page loaded
+[2019-07-28T21:47:03.946] [INFO] protractor - sign up link cliked
+[2019-07-28T21:47:05.395] [INFO] protractor - page loaded
+[2019-07-28T21:47:05.970] [INFO] protractor - user details entered
+[2019-07-28T21:47:10.684] [INFO] protractor - page loaded
+[2019-07-28T21:47:11.152] [INFO] protractor - user details entered
+[2019-07-28T22:13:21.237] [INFO] protractor - page loaded
+[2019-07-28T22:13:24.723] [INFO] protractor - sign in clicked
+[2019-07-28T22:13:25.278] [INFO] protractor - page loaded
+[2019-07-28T22:13:25.759] [INFO] protractor - sign in clicked
+[2019-07-28T22:13:25.760] [INFO] protractor - sign up clicked
+[2019-07-28T22:13:26.675] [INFO] protractor - page loaded
+[2019-07-28T22:13:27.169] [INFO] protractor - forgot password link clicked
+[2019-07-28T22:13:27.170] [INFO] protractor - email entered
+[2019-07-28T22:13:27.170] [INFO] protractor - send password rest button clicked
+[2019-07-28T22:13:28.714] [INFO] protractor - page loaded
+[2019-07-28T22:13:29.181] [INFO] protractor - forgot password link clicked
+[2019-07-28T22:13:29.181] [INFO] protractor - email entered
+[2019-07-28T22:13:29.181] [INFO] protractor - send password rest button clicked
+[2019-07-28T22:13:30.710] [INFO] protractor - page loaded
+[2019-07-28T22:13:31.158] [INFO] protractor - forgot password link clicked
+[2019-07-28T22:13:31.159] [INFO] protractor - email entered
+[2019-07-28T22:13:31.159] [INFO] protractor - send password rest button clicked
+[2019-07-28T22:13:32.927] [INFO] protractor - page loaded
+[2019-07-28T22:13:33.467] [INFO] protractor - sigun up link cliked
+[2019-07-28T22:13:35.312] [INFO] protractor - page loaded
+[2019-07-28T22:13:35.811] [INFO] protractor - sign up link cliked
+[2019-07-28T22:13:37.163] [INFO] protractor - page loaded
+[2019-07-28T22:13:37.646] [INFO] protractor - user details entered
+[2019-07-28T22:13:42.227] [INFO] protractor - page loaded
+[2019-07-28T22:13:42.981] [INFO] protractor - user details entered
+[2019-07-28T22:22:20.266] [INFO] protractor - page loaded
+[2019-07-28T22:22:24.418] [INFO] protractor - sign in clicked
+[2019-07-28T22:22:25.038] [INFO] protractor - page loaded
+[2019-07-28T22:22:25.451] [INFO] protractor - sign in clicked
+[2019-07-28T22:22:25.451] [INFO] protractor - sign up clicked
+[2019-07-28T22:22:26.414] [INFO] protractor - page loaded
+[2019-07-28T22:22:26.826] [INFO] protractor - forgot password link clicked
+[2019-07-28T22:22:26.827] [INFO] protractor - email entered
+[2019-07-28T22:22:26.827] [INFO] protractor - send password rest button clicked
+[2019-07-28T22:22:28.389] [INFO] protractor - page loaded
+[2019-07-28T22:22:28.777] [INFO] protractor - forgot password link clicked
+[2019-07-28T22:22:28.777] [INFO] protractor - email entered
+[2019-07-28T22:22:28.777] [INFO] protractor - send password rest button clicked
+[2019-07-28T22:22:30.551] [INFO] protractor - page loaded
+[2019-07-28T22:22:31.393] [INFO] protractor - forgot password link clicked
+[2019-07-28T22:22:31.393] [INFO] protractor - email entered
+[2019-07-28T22:22:31.394] [INFO] protractor - send password rest button clicked
+[2019-07-28T22:22:33.117] [INFO] protractor - page loaded
+[2019-07-28T22:22:33.666] [INFO] protractor - sigun up link cliked
+[2019-07-28T22:22:35.520] [INFO] protractor - page loaded
+[2019-07-28T22:22:36.050] [INFO] protractor - sign up link cliked
+[2019-07-28T22:22:37.113] [INFO] protractor - page loaded
+[2019-07-28T22:22:37.558] [INFO] protractor - user details entered
+[2019-07-28T22:22:42.126] [INFO] protractor - page loaded
+[2019-07-28T22:22:42.585] [INFO] protractor - user details entered
+[2019-07-28T22:42:07.705] [INFO] protractor - page loaded
+[2019-07-28T22:42:12.973] [INFO] protractor - sign in clicked
+[2019-07-28T22:42:13.616] [INFO] protractor - page loaded
+[2019-07-28T22:42:14.105] [INFO] protractor - sign in clicked
+[2019-07-28T22:42:14.105] [INFO] protractor - sign up clicked
+[2019-07-28T22:42:15.211] [INFO] protractor - page loaded
+[2019-07-28T22:42:15.696] [INFO] protractor - forgot password link clicked
+[2019-07-28T22:42:15.697] [INFO] protractor - email entered
+[2019-07-28T22:42:15.697] [INFO] protractor - send password rest button clicked
+[2019-07-28T22:42:17.477] [INFO] protractor - page loaded
+[2019-07-28T22:42:18.419] [INFO] protractor - forgot password link clicked
+[2019-07-28T22:42:18.420] [INFO] protractor - email entered
+[2019-07-28T22:42:18.420] [INFO] protractor - send password rest button clicked
+[2019-07-28T22:42:19.854] [INFO] protractor - page loaded
+[2019-07-28T22:42:20.264] [INFO] protractor - forgot password link clicked
+[2019-07-28T22:42:20.265] [INFO] protractor - email entered
+[2019-07-28T22:42:20.265] [INFO] protractor - send password rest button clicked
+[2019-07-28T22:42:22.219] [INFO] protractor - page loaded
+[2019-07-28T22:42:22.772] [INFO] protractor - sigun up link cliked
+[2019-07-28T22:42:24.636] [INFO] protractor - page loaded
+[2019-07-28T22:42:25.176] [INFO] protractor - sign up link cliked
+[2019-07-28T22:42:26.287] [INFO] protractor - page loaded
+[2019-07-28T22:42:26.780] [INFO] protractor - user details entered
+[2019-07-28T22:42:31.653] [INFO] protractor - page loaded
+[2019-07-28T22:42:32.118] [INFO] protractor - user details entered
+[2019-07-28T22:54:38.085] [INFO] protractor - page loaded
+[2019-07-28T22:54:42.371] [INFO] protractor - sign in clicked
+[2019-07-28T22:54:42.990] [INFO] protractor - page loaded
+[2019-07-28T22:54:43.443] [INFO] protractor - sign in clicked
+[2019-07-28T22:54:43.443] [INFO] protractor - sign up clicked
+[2019-07-28T22:54:44.769] [INFO] protractor - page loaded
+[2019-07-28T22:54:45.182] [INFO] protractor - forgot password link clicked
+[2019-07-28T22:54:45.183] [INFO] protractor - email entered
+[2019-07-28T22:54:45.183] [INFO] protractor - send password rest button clicked
+[2019-07-28T22:54:46.854] [INFO] protractor - page loaded
+[2019-07-28T22:54:47.265] [INFO] protractor - forgot password link clicked
+[2019-07-28T22:54:47.265] [INFO] protractor - email entered
+[2019-07-28T22:54:47.266] [INFO] protractor - send password rest button clicked
+[2019-07-28T22:54:48.755] [INFO] protractor - page loaded
+[2019-07-28T22:54:49.149] [INFO] protractor - forgot password link clicked
+[2019-07-28T22:54:49.150] [INFO] protractor - email entered
+[2019-07-28T22:54:49.150] [INFO] protractor - send password rest button clicked
+[2019-07-28T22:54:50.747] [INFO] protractor - page loaded
+[2019-07-28T22:54:51.217] [INFO] protractor - sigun up link cliked
+[2019-07-28T22:54:53.424] [INFO] protractor - page loaded
+[2019-07-28T22:54:54.002] [INFO] protractor - sign up link cliked
+[2019-07-28T22:54:55.448] [INFO] protractor - page loaded
+[2019-07-28T22:54:55.995] [INFO] protractor - user details entered
+[2019-07-28T22:55:00.545] [INFO] protractor - page loaded
+[2019-07-28T22:55:01.036] [INFO] protractor - user details entered
+[2019-07-28T23:13:46.200] [INFO] protractor - page loaded
+[2019-07-28T23:13:49.363] [INFO] protractor - sign in clicked
+[2019-07-28T23:13:49.942] [INFO] protractor - page loaded
+[2019-07-28T23:13:50.452] [INFO] protractor - sign in clicked
+[2019-07-28T23:13:50.453] [INFO] protractor - sign up clicked
+[2019-07-28T23:13:51.652] [INFO] protractor - page loaded
+[2019-07-28T23:13:52.399] [INFO] protractor - forgot password link clicked
+[2019-07-28T23:13:52.399] [INFO] protractor - email entered
+[2019-07-28T23:13:52.399] [INFO] protractor - send password rest button clicked
+[2019-07-28T23:13:54.041] [INFO] protractor - page loaded
+[2019-07-28T23:13:54.863] [INFO] protractor - forgot password link clicked
+[2019-07-28T23:13:54.864] [INFO] protractor - email entered
+[2019-07-28T23:13:54.864] [INFO] protractor - send password rest button clicked
+[2019-07-28T23:13:56.417] [INFO] protractor - page loaded
+[2019-07-28T23:13:57.251] [INFO] protractor - forgot password link clicked
+[2019-07-28T23:13:57.251] [INFO] protractor - email entered
+[2019-07-28T23:13:57.251] [INFO] protractor - send password rest button clicked
+[2019-07-28T23:13:59.229] [INFO] protractor - page loaded
+[2019-07-28T23:13:59.639] [INFO] protractor - sigun up link cliked
+[2019-07-28T23:14:01.861] [INFO] protractor - page loaded
+[2019-07-28T23:14:02.474] [INFO] protractor - sign up link cliked
+[2019-07-28T23:14:03.780] [INFO] protractor - page loaded
+[2019-07-28T23:14:04.247] [INFO] protractor - user details entered
+[2019-07-28T23:14:08.973] [INFO] protractor - page loaded
+[2019-07-28T23:14:09.472] [INFO] protractor - user details entered
+[2019-07-28T23:48:43.739] [INFO] protractor - page loaded
+[2019-07-28T23:48:47.054] [INFO] protractor - sign in clicked
+[2019-07-28T23:48:47.921] [INFO] protractor - page loaded
+[2019-07-28T23:48:48.441] [INFO] protractor - sign in clicked
+[2019-07-28T23:48:48.441] [INFO] protractor - sign up clicked
+[2019-07-28T23:48:49.376] [INFO] protractor - page loaded
+[2019-07-28T23:48:49.842] [INFO] protractor - forgot password link clicked
+[2019-07-28T23:48:49.842] [INFO] protractor - email entered
+[2019-07-28T23:48:49.842] [INFO] protractor - send password rest button clicked
+[2019-07-28T23:48:51.405] [INFO] protractor - page loaded
+[2019-07-28T23:48:51.891] [INFO] protractor - forgot password link clicked
+[2019-07-28T23:48:51.892] [INFO] protractor - email entered
+[2019-07-28T23:48:51.892] [INFO] protractor - send password rest button clicked
+[2019-07-28T23:48:53.460] [INFO] protractor - page loaded
+[2019-07-28T23:48:53.946] [INFO] protractor - forgot password link clicked
+[2019-07-28T23:48:53.946] [INFO] protractor - email entered
+[2019-07-28T23:48:53.946] [INFO] protractor - send password rest button clicked
+[2019-07-28T23:48:55.692] [INFO] protractor - page loaded
+[2019-07-28T23:48:56.068] [INFO] protractor - sigun up link cliked
+[2019-07-28T23:48:58.290] [INFO] protractor - page loaded
+[2019-07-28T23:48:58.778] [INFO] protractor - sign up link cliked
+[2019-07-28T23:49:00.081] [INFO] protractor - page loaded
+[2019-07-28T23:49:00.571] [INFO] protractor - user details entered
+[2019-07-28T23:49:05.229] [INFO] protractor - page loaded
+[2019-07-28T23:49:05.713] [INFO] protractor - user details entered
