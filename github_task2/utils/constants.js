@@ -4,8 +4,9 @@ const CANT = 'Can\'t'
 const INCORRECT_CREDENTIALS = 'Incorrect username or password.'
 const SIGUP_PAGE_TITLE = 'Join GitHub · GitHub'
 const SIGUP_PAGE_HEADER = 'Create your personal account'
-const EXISTING_EMAIL = 'm.ie'
+const EXISTING_EMAIL = 'luhnovsarthur@gmail.com'
 const NEW_EMAIL = 'randomsample4t53@gmail.com'
+const INVALID_EMAIL = 'm.ie'
 
 module.exports = {
 	SIGIN_PAGE_TITLE: SIGIN_PAGE_TITLE, 
@@ -16,4 +17,5 @@ module.exports = {
 	SIGUP_PAGE_HEADER: SIGUP_PAGE_HEADER,
 	EXISTING_EMAIL: EXISTING_EMAIL,
 	NEW_EMAIL: NEW_EMAIL,
+	INVALID_IMAIL: INVALID_EMAIL,
 }
