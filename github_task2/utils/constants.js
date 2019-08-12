@@ -6,7 +6,7 @@ const SIGUP_PAGE_TITLE = 'Join GitHub · GitHub'
 const SIGUP_PAGE_HEADER = 'Create your personal account'
 const EXISTING_EMAIL = 'luhnovsarthur@gmail.com'
 const NEW_EMAIL = 'randomsample4t53@gmail.com'
-const INVALID_EMAIL = 'm.ie'
+const INVALID_EMAIL = 'm@@@'
 
 module.exports = {
 	SIGIN_PAGE_TITLE: SIGIN_PAGE_TITLE, 
