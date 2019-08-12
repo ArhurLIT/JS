@@ -18,7 +18,7 @@ describe('Github spec', function(){
     })
 
     it('Verify invalid email in reset_password page', function() {       
-        expect(ResetPasswordPage.resetPassword(Constants.INVALID_EMAIL)).toEqual(Constants.CANT_FIND_EMAIL)
+        expect(ResetPasswordPage.resetPassword(Constants.NEW_EMAIL)).toEqual(Constants.CANT_FIND_EMAIL)
     })
 
     it('Verify empty email in reset_password page', function() {         
